@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hybrid Mobile App Developer
 ---------------------------
 
-Highly skilled mobile app developer bringing around 3 years in software design, development and integration. Offering advanced knowledge of Javascript & Dart programming languages. Detail-oriented, organised and meticulous employee. Enthusiastic team player ready to contribute to company success.
+Highly skilled mobile app developer bringing around 3 years in software design, development, and integration. Offering advanced knowledge of Javascript & Dart programming languages. Detail-oriented, organized, and meticulous employee. Enthusiastic team player ready to contribute to company success.
 
 *   🌍  I'm based in Lahore, Pakistan
 *   ✉️  You can contact me at [syed.arhamss1@gmail.com](mailto:syed.arhamss1@gmail.com)
-*   🚀  I'm currently working on a mobile app for [CaristanPK](https://caristanpk.com/)
+*   🚀  I'm currently working on a mobile app for Bammbuu Langauge Learning
 *   🧠  I'm learning React Native
 *   🤝  I'm open to collaborating on Community Mobile Apps
 
