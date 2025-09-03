@@ -7,7 +7,7 @@ Mobile Application Developer
 I build awesome mobile apps using Flutter, Swift, and React Native. With over 5 years in the game and a bunch of published apps under my belt (with a boatload of downloads and user retention), I’ve teamed up with dev squads from all over the world to bring cool ideas to life. Always down for clean code, smooth UIs, and a good challenge!
 
 * 🌍  I'm based in Lahore, Pakistan
-* 🖥️  See my portfolio at [here.](http://syedarham.framer.website/)
+* 🖥️  See my portfolio at [here.](http://syedarham.com/)
 * ✉️  You can contact me at [syed.arham@gocodeable.com](mailto:syed.arham@gocodeable.com)
 * 🚀 I'm currently working on [Receipts](https://receiptsapp.framer.website/)
 * 🧠  I'm learning Swift
