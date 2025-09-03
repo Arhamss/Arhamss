@@ -9,7 +9,7 @@ I build awesome mobile apps using Flutter, Swift, and React Native. With over 5 
 * 🌍  I'm based in Lahore, Pakistan
 * 🖥️  See my portfolio at [here.](http://syedarham.framer.website/)
 * ✉️  You can contact me at [syed.arham@gocodeable.com](mailto:syed.arham@gocodeable.com)
-* 🚀  I'm currently working on [Receipts]([https://receiptsapp.framer.website/])
+* 🚀 I'm currently working on [Receipts](https://receiptsapp.framer.website/)
 * 🧠  I'm learning Kotlin
 * 🤝  I'm open to collaborating on MVPs that can revolutionize our lifestyle.
 
